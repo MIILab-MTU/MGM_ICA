@@ -1,0 +1,11 @@
+easydict==1.11
+gurobipy==10.0.3
+networkx==2.6.3
+numpy==1.21.2
+nvidia_ml_py==12.535.161
+pynvml==11.5.0
+PyYAML==6.0.2
+scipy==1.7.3
+torch==1.10.0
+torch_geometric==2.0.3
+torchvision==0.11.0
